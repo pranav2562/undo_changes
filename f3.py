@@ -1,1 +1,0 @@
-print('hello from f3.py of master')
